@@ -1,4 +1,4 @@
-# curl -fsSL https://get.docker.com | sh
+curl -fsSL https://get.docker.com | sh
 # Docker was already installed, apt update has some errors (broken amnezia repository, multiply debian repository strings)
 docker --version
 # Fix apt update errors:
